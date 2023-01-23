@@ -1,2 +1,2 @@
 # ds_projects
-Здесь собраны все сделанные мной проекты (сборная солянка).
+Analytics and machine learning projects.
